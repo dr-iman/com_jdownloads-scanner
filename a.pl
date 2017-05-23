@@ -47,9 +47,3 @@ $Messageee = "No Vulnerable";
 }
 print ">> $target => $Messageee\n";
 }
-
-###########################
-
-# Iranian Exploit DataBase = http://IeDb.Ir [2016-12-17]
-
-###########################

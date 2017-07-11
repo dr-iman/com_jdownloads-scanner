@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 # Sample Coded By DR.IMAN
 # Site : Guardiran.org
-# Tel : mrar1yan
+# Tel : DarkCod3r
 
 use HTTP::Request;
 use LWP::Simple;
